@@ -1,0 +1,18 @@
+-----Thomas Ferry||Intro To SmartContracts||Resources-----
+================================
+Development Tools
+================================
+Geth: https://github.com/ethereum/go-ethereum/wiki/geth
+Truffle: http://truffleframework.com
+Ganache: http://truffleframework.com/ganache/
+Mist: https://github.com/ethereum/mist
+Remix IDE: https://remix.ethereum.org
+Gas Spreadsheet: http://tinyurl.com/countinggas
+================================
+Great Tutorials and Resources
+================================
+Ethereum: https://bitsonblocks.net/2016/10/02/a-gentle-introduction-to-ethereum/
+Ethereum White Paper: https://github.com/ethereum/wiki/wiki/White-Paper
+Building a SmartContract: https://medium.com/@dev_zl/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e
+Proof of Stake: https://hackernoon.com/what-is-proof-of-stake-8e0433018256
+Common Development Patterns: https://solidity.readthedocs.io/en/v0.4.11/common-patterns.html
